@@ -1,6 +1,6 @@
 # NJUPT-CheckinSpider
 
-Auto checkin script based on headless chrome using puppeteer/chrome
+Auto health-checkin script based on headless chrome using puppeteer/chrome
 Just for self-practicing
 
 
@@ -42,3 +42,7 @@ go run main.go -u "YOUR_NJUPT_USERNAME" -p "YOUR_NJUPT_USERNAME$"
 ```
 
 ## lastwords
+
+
+puppeteer is ez and fun :) 
+chromedp is piece of shit XD
