@@ -33,8 +33,8 @@ async function main() {
     await timeout(0.5 * 1000)
     await page.goto('http://datav.njupt.edu.cn/feiyan_api/h5/html/daka/daka-multi.html#question-form')
     
-    await timeout(200 * 1000)
-    await page.click('.button') 
+
+    //await page.click('.button')  for editing
     await timeout(1 * 1000)
   
 

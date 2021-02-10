@@ -26,12 +26,13 @@ NJUPT_PASSWORD="xxxxx"
 
 ## Go
 
+* Go 
 * chromedp
 
-### install/build
-
+### install/build/release
 
 `go build -o main.exe main.go` for windows or `go build -o main main.go` for linux
+
 
 ### usage
 
@@ -42,3 +43,6 @@ go run main.go -u "YOUR_NJUPT_USERNAME" -p "YOUR_NJUPT_USERNAME$"
 ```
 
 ## lastwords
+
+puppeteer is ez and fun :) 
+chromedp is piece of shit XD
